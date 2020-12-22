@@ -1,6 +1,6 @@
 # final project in Heuristic search
 
-Before starting gitclone repository
+Before starting git clone repository
 
 1)data_generator.py is for data generating
 
